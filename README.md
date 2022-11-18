@@ -5,5 +5,8 @@ git clone <url>
 
 > push change
 git add .
-git commit -m "docs: initial documentation of git"
-git push -u origin master
+git commit -m "<message>"
+git push -u origin main
+
+> check git status
+git status
